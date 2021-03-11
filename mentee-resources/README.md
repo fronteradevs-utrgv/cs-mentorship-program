@@ -5,6 +5,10 @@ Here are a collection of resources the DSC-UTRGV team and your mentors have reco
 <br/><br/>
 **Note**: This is a long, comprehensive list of resources multiple students have found helpful for their journey and it can feel overwhelming to look at it first glance. Learn at your leisure and don't feel pressured to look at every single item on this file. If you have a question or are curious about which resource you should look at first, ask your mentor- they're happy to help 💖
 
+## Opportunities 
+- [Google Summer of Code](https://summerofcode.withgoogle.com/)
+- [CodePath x Workday SITE Internship Program](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site)
+
 ## Tech Development 
 -  [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
 -  [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
