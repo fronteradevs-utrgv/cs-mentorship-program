@@ -6,4 +6,4 @@ The computer science mentorship program is a program designed to help students a
 ### Contents
 - [Mentor Guides](https://github.com/dsc-utrgv/cs-mentorship-program/tree/main/mentor-guides)
 - [Mentor Resources](https://github.com/dsc-utrgv/cs-mentorship-program/tree/main/mentor-resources)
-- [Mentee Resources](dscutrgv.org)
+- [Mentee Resources](https://github.com/dsc-utrgv/cs-mentorship-program/tree/main/mentee-resources)
