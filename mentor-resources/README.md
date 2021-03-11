@@ -19,4 +19,4 @@ Here are a collection of resources the DSC-UTRGV team suggests **all** mentors r
 <hr>
 
 ### Contributors
-- @ltephanysopez
+- [@ltephanysopez](https://github.com/ltephanysopez)
