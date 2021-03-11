@@ -31,4 +31,4 @@ Here are a collection of resources the DSC-UTRGV team and your mentors have reco
 <hr>
 
 ### Contributors
-- @ltephanysopez
+- [@ltephanysopez](https://github.com/ltephanysopez)
