@@ -31,6 +31,6 @@ Each of these guides provides a suggested timeline of topics you should cover wi
 <hr>
 
 ### Contributors
-- @ltephanysopez
-- @GentaKaieda01
-- @raulg4435
+- [@ltephanysopez](https://github.com/ltephanysopez)
+- [@GentaKaieda01](https://github.com/GentaKaieda01)
+- [@raulg4435](https://github.com/raulg4435)
