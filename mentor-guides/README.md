@@ -36,4 +36,4 @@ Each of these guides provides a suggested timeline of topics you should cover wi
 - [@raulg4435](https://github.com/raulg4435)
 - [@sccirlos](https://github.com/sccirlos)
 - [@bellestrella](https://github.com/bellestrella)
-- kristen (waiting for her link)
+- [@kristen-hallas](https://github.com/kristen-hallas)
