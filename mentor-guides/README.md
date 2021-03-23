@@ -21,12 +21,12 @@ Each of these guides provides a suggested timeline of topics you should cover wi
 -  **Week Six**: Final case presentation and program wrap-up
 
 ## Research Guide
--  **Week One**: 
--  **Week Two**:
--  **Week Three**: 
--  **Week Four**:
--  **Week Five**:
--  **Week Six**: 
+-  **Week One**: Introductions and goals
+-  **Week Two**: Navigating Academic CS Research
+-  **Week Three**: Research Journals and Manuscripts
+-  **Week Four**: Approaching Faculty for open research positions
+-  **Week Five**: CS Research Opportunities outside of campus
+-  **Week Six**: Professional development: Resume and Networking tips 
 
 <hr>
 
@@ -34,3 +34,6 @@ Each of these guides provides a suggested timeline of topics you should cover wi
 - [@ltephanysopez](https://github.com/ltephanysopez)
 - [@GentaKaieda01](https://github.com/GentaKaieda01)
 - [@raulg4435](https://github.com/raulg4435)
+- [@sccirlos](https://github.com/sccirlos)
+- [@bellestrella](https://github.com/bellestrella)
+- kristen (waiting for her link)
