@@ -13,6 +13,7 @@ Here are a collection of resources the DSC-UTRGV team and your mentors have reco
 -  [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
 -  [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 -  [Leetcode](https://leetcode.com/)
+-  [Solving Product Design Exercises](https://productdesigninterview.com/)
 
 
 ## Resume Templates
