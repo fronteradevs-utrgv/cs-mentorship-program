@@ -15,6 +15,10 @@ Here are a collection of resources the DSC-UTRGV team and your mentors have reco
 -  [Leetcode](https://leetcode.com/)
 -  [Solving Product Design Exercises](https://productdesigninterview.com/)
 
+## Product Management
+- [Product Management 101, Harvard Business School](https://www.hbspm101.com/readings?fbclid=IwAR0F3ll30AkctOdaudnFlJx8TWPPu0X7V-ed61JwDAjlRGH1d9FUYusFyDw)
+- [Interview Prep for PM, Exponent](https://www.tryexponent.com/)
+
 
 ## Resume Templates
 - [OverLead LaTeX Templates](https://www.overleaf.com/latex/templates/tagged/cv)
