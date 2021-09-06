@@ -39,8 +39,9 @@
   - ASARG - [SODA](https://www.siam.org/conferences/cm/conference/soda21), [DNA](http://dna27.iopconfs.org/Home), [CCCG](https://www.cccg.ca/), [JCDCG](http://www.alg.cei.uec.ac.jp/itohiro/JCDCGG/), [ICALP](http://easyconferences.eu/icalp2021/), [ESA](http://esa-symposium.org/)
   - Machine Intelligence - [ICDIS](https://www.icdis.org/), [SIGMOD](https://sigmod.org/), [BIBE](https://www.ieeebibe2020.org/), [BIBM](https://ieeebibm.org/BIBM2021/), [ICMLA](https://www.icmla-conference.org/)
   - Molecular Biology Data - [ACM-BCB](http://acm-bcb.org/), [PLoS](https://plos.org/)
+  - Human-Computer Interaction - [ACM-HRI](https://humanrobotinteraction.org/2022/), [ACM-CHI](https://chi.acm.org/)
 - Life as a Student researcher
-  - Frequent reading
+  - Frequent reading, and potentially lots of experimenting and writing
   - Working in a research team (Don’t let intimidation settle!)
   - Presenting your work to mentors
   - Contribution and your name on published papers
@@ -56,7 +57,10 @@
   - Machine Learning - [JBCB](https://www.worldscientific.com/worldscinet/jbcb?campaignid=336010695&adgroupid=23075846775&creative=88596011175&keyword=&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQisLTFgHv6en0N5StVXHk7ljBEZhY7Yz5ProwRXKTaL_x4VtVB9Xo4saAujGEALw_wcB), [IJDMB](https://www.inderscience.com/jhome.php?jcode=ijdmb),[TCBB](https://dl.acm.org/journal/tcbb)
   - Molecular Biology Data - [Proteomics](https://analyticalsciencejournals.onlinelibrary.wiley.com/journal/16159861), [EURASIP](https://bsb-eurasipjournals.springeropen.com/)
   - ASARG - [Algorithmica](https://www.springer.com/journal/453)
+  - [ACM Digital Library](https://dl.acm.org/)
 - Process of Publishing a paper
+  - Research
+  - Write
   - Submission
   - Review
   - Edits
@@ -66,7 +70,7 @@
   - “peer-reviewed”‘? 
   - STRUCTURE!
 - Assignment!
-  - Pick a research paper you are interested in and explain it to mentor
+  - Pick a research paper you are interested in and explain it to your mentor
 	
 ## Week Four: Approaching Faculty for open research positions
 - How to write an interest email to a professor
@@ -75,12 +79,13 @@
   - Department of Mathematics
   - Department of Biology, Chemistry, Physics
   - Department of Sociology
+  - Department of Psychology
   - School of Medicine
-  - College of Business 
+  - College of Business
 
 - Assignment (optional)
   - Send a interest email to a research professor 
-  - Go to a professor’s  office hours and ask questions about their research!
+  - Go to a professor’s office hours or schedule an appointment, and ask questions about their research!
 
 ## Week Five: CS Research Opportunities outside of campus
 - CS Research Internships 
