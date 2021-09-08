@@ -37,3 +37,4 @@ Each of these guides provides a suggested timeline of topics you should cover wi
 - [@sccirlos](https://github.com/sccirlos)
 - [@bellestrella](https://github.com/bellestrella)
 - [@kristen-hallas](https://github.com/kristen-hallas)
+- [@acsanchezr](https://github.com/acsanchezr)
