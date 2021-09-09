@@ -8,9 +8,11 @@ Each of these guides provides a suggested timeline of topics you should cover wi
 -  **Week One**: Introductions and goals
 -  **Week Two**: Different career paths in software engineering and discussing technical interviews
 -  **Week Three**: Resumes and job postings
--  **Week Four**: Mock interview
--  **Week Five**: Project start/Leetcode prep
--  **Week Six**: Final project presentation
+-  **Week Four**: Technical interview prep
+-  **Week Five**: Mock interview
+-  **Week Six**: Project ideation
+-  **Week Seven**: Project work
+-  **Week Eight**: Final project presentation
 
 ## Product Management Guide
 -  **Week One**: Introductions and goals
