@@ -101,7 +101,7 @@
     - Answer 3 popular easy questions or choose 3 questions from the blind 75 questions. 
     - Answer 1 OOP design question from leetcode
 
-## Week 5: Project wrapup and or Leetcode prep
+## Week Five: Project wrapup and or Leetcode prep
 - Start wrapping up the project
   - Create a presentation slide
   - What did they learn
