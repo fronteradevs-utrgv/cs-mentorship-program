@@ -83,7 +83,7 @@
   - Interview prep resources (refer to Week 2 section C)
 - Assignments!
   - Edit your resume
-  - Find three internships/jobs to apply to for the next hiring term (don’t apply yet! Just find the job listing)
+  - Find three internships/jobs to apply to
   - Why we’re doing this
     - Staying resume-ready to prepare to reach out to recruiters and apply to positions
     - Understanding how to make the most of your experiences and projects 
@@ -103,8 +103,10 @@
 
 
 ## Week Five: Searching and securing your first opportunity
+- Applying to internships, at least three internships
 - Leetcode prep
   - Answer 1 easy question (together or independently)
+- Mock interview
 - Assignments
   - Leetcode questions
     - Answer 3 popular easy questions or choose 3 questions from the blind 75 questions. 
@@ -120,7 +122,7 @@
 - Leetcode prep
   - Answer 1 medium question from the blind 75 question. 
 - Assignments!
-  - Finish up the presentation slide. 
+  - Finish up the presentation slide (if working on a project)
 
 ## Week Seven: Final project presentation and program wrap up
 - Final 1:1
