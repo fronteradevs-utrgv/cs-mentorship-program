@@ -1,4 +1,4 @@
-![Mentor Resources Banner](https://github.com/dsc-utrgv/cs-mentorship-program/blob/main/assets/mentorresources.png)
+![Mentor Resources Banner](https://github.com/fronteradevs-utrgv/cs-mentorship-program/blob/main/assets/mentor-resources.png)
 
 # Mentor Resources ✨
 Here are a collection of resources the DSC-UTRGV team suggests **all** mentors review to ensure we are inclusive, intentional, and effective mentors to students in our community.
