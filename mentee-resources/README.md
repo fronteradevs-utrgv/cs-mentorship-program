@@ -8,6 +8,7 @@ Here are a collection of resources the Frontera Devs team and your mentors have 
 ## Opportunities 
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - [CodePath x Workday SITE Internship Program](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site)
+- [List of 2022 Internships](https://github.com/pittcsc/Summer2022-Internships)
 
 ## Tech Development 
 -  [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
