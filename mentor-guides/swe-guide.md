@@ -92,17 +92,27 @@
     - Gauging a sense of what questions will be asked in a SWE interview and how you should prepare
 
 
-## Week Four: Searching and securing your first opportunity
+## Week Four: Storytelling
 - Finalizing your resume 
-- Review draft interview responses 
-- Mock interview with different mentor based on where mentee would like to build more strength (e.g. technical, behavioral, etc.)
-- Assignments!
-  - Leetcode questions!!! 
+- Behavioral questions
+- Crafting your personal story and mastering the "tell me about yourself" question
+- Assignments
+  - Start looking at Leetcode questions
     - Answer 3 popular easy questions or choose 3 questions from the blind 75 questions. 
     - Answer 1 OOP design question from leetcode
 
-## Week Five: Project wrapup and or Leetcode prep
-- Start wrapping up the project
+
+## Week Five: Searching and securing your first opportunity
+- Leetcode prep
+  - Answer 1 easy question (together or independently)
+- Assignments
+  - Leetcode questions
+    - Answer 3 popular easy questions or choose 3 questions from the blind 75 questions. 
+    - Answer 1 OOP design question from leetcode
+
+
+## Week Six: Project wrapup and or Leetcode prep
+- Start wrapping up the project (Optional)
   - Create a presentation slide
   - What did they learn
   - What could have been better
@@ -112,8 +122,7 @@
 - Assignments!
   - Finish up the presentation slide. 
 
-## Week Six: Final project presentation and program wrap up
-- Present final project (to mentor or to M&M group!) 
+## Week Seven: Final project presentation and program wrap up
+- Final 1:1
+- Present project to mentee or to group (optional)
 - What’s next?
-
-
