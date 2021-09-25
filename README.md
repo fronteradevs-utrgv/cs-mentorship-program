@@ -1,5 +1,5 @@
 # Welcome to the Frontera Devs Mentorship Program! 👋
-![CS Mentorship Program Banner](https://github.com/fronteradevs-utrgv/cs-mentorship-program/blob/main/assets/mandm-githeader.png)
+![CS Mentorship Program Banner](https://github.com/fronteradevs-utrgv/cs-mentorship-program/blob/main/assets/mandm-header.png)
 
 This mentorship program was designed to guide early-career UTRGV students gain insight and explore opportunities in the tech industry, develop their professional and technical skills, and collaborate with students on campus. This repository is a collection of resources for mentees and mentors to use throughout the program- we hope you find them resourceful! 
 
