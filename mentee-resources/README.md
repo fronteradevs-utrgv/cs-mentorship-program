@@ -1,4 +1,4 @@
-![Mentee Resources Banner](https://github.com/dsc-utrgv/cs-mentorship-program/blob/main/assets/menteeresources.png)
+![Mentee Resources Banner](https://github.com/fronteradevs-utrgv/cs-mentorship-program/blob/main/assets/menteeresources.png)
 
 # Mentee Resources 🌱
 Here are a collection of resources the DSC-UTRGV team and your mentors have recommended for developing your technical and soft skills. If you have a suggestion for something that should be in this list- open a PR! 
