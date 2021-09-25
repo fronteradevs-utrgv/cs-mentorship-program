@@ -1,7 +1,7 @@
-# Welcome to the CS Mentorship Program! 👋
-![CS Mentorship Program Banner](https://github.com/dsc-utrgv/cs-mentorship-program/blob/main/assets/mandmbanner.png)
+# Welcome to the Frontera Devs CS Mentorship Program! 👋
+![CS Mentorship Program Banner](https://github.com/dsc-utrgv/cs-mentorship-program/blob/main/assets/mandmheader.png)
 
-The computer science mentorship program is a program designed to help students at UTRGV gain insight and explore opportunities in the tech industry, develop their professional and technical skills, and collaborate with students on campus. This repository is a collection of resources for mentees and mentors to use throughout the program- we hope you find them resourceful! 
+This mentorship program was designed to guide early-career UTRGV students gain insight and explore opportunities in the tech industry, develop their professional and technical skills, and collaborate with students on campus. This repository is a collection of resources for mentees and mentors to use throughout the program- we hope you find them resourceful! 
 
 ### Contents
 - [Mentor Guides](https://github.com/dsc-utrgv/cs-mentorship-program/tree/main/mentor-guides)
