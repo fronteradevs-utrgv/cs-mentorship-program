@@ -5,10 +5,18 @@ Here are a collection of resources the Frontera Devs team and your mentors have 
 <br/><br/>
 **Note**: This is a long, comprehensive list of resources multiple students have found helpful for their journey and it can feel overwhelming to look through at first glance. Learn at your leisure and don't feel pressured to look at every single item on this file. If you have a question or are curious about which resource you should look at first, ask your mentor- they're happy to help 💖
 
+## General Resources
+- [Overview of Internships in Tech](https://pittcs.wiki/zero-to-offer/overview/)
+- [Building Your Case](https://pittcs.wiki/zero-to-offer/building-your-case/)
+- [How to Ace Your Interviews](https://pittcs.wiki/zero-to-offer/ace-your-interview/)
+- [Rejection, Success, and Ghosting](https://pittcs.wiki/zero-to-offer/post-interview/)
+
+
 ## Opportunities 
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - [CodePath x Workday SITE Internship Program](https://info.codepath.org/codepath-summer-internship-for-tech-excellence-site)
 - [List of 2022 Internships](https://github.com/pittcsc/Summer2022-Internships)
+
 
 ## Tech Development 
 -  [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
