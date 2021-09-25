@@ -3,7 +3,7 @@
 # Mentee Resources 🌱
 Here are a collection of resources the Frontera Devs team and your mentors have recommended for developing your technical and soft skills. If you have a suggestion for something that should be in this list- open a PR! 
 <br/><br/>
-**Note**: This is a long, comprehensive list of resources multiple students have found helpful for their journey and it can feel overwhelming to look at it first glance. Learn at your leisure and don't feel pressured to look at every single item on this file. If you have a question or are curious about which resource you should look at first, ask your mentor- they're happy to help 💖
+**Note**: This is a long, comprehensive list of resources that multiple students have found helpful for their journey and it can feel overwhelming to run through at first glance. Learn at your leisure and don't feel pressured to look at every single item on this file. If you have a question or are curious about which resource you should look at first, ask your mentor- they're happy to help 💖
 
 ## Opportunities 
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
