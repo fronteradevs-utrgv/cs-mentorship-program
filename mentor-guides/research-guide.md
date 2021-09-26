@@ -52,8 +52,9 @@
 - Gain access to resources as a UTRGV student
   - [OpenAthens](https://www.openathens.net)
   - [UTRGV digital library](https://www.utrgv.edu/library/)
-  - How to search for your topic of interest
-- [CS Research Journals](https://www.springer.com/gp/computer-science/all-journals-in-computer-science)
+- How to search for your topic of interest
+  - [Google Scholar](scholar.google.com/)
+  - [CS Research Journals](https://www.springer.com/gp/computer-science/all-journals-in-computer-science)
   - Machine Learning - [JBCB](https://www.worldscientific.com/worldscinet/jbcb?campaignid=336010695&adgroupid=23075846775&creative=88596011175&keyword=&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQisLTFgHv6en0N5StVXHk7ljBEZhY7Yz5ProwRXKTaL_x4VtVB9Xo4saAujGEALw_wcB), [IJDMB](https://www.inderscience.com/jhome.php?jcode=ijdmb),[TCBB](https://dl.acm.org/journal/tcbb)
   - Molecular Biology Data - [Proteomics](https://analyticalsciencejournals.onlinelibrary.wiley.com/journal/16159861), [EURASIP](https://bsb-eurasipjournals.springeropen.com/)
   - ASARG - [Algorithmica](https://www.springer.com/journal/453)
@@ -70,7 +71,8 @@
   - “peer-reviewed”‘? 
   - STRUCTURE!
 - Assignment!
-  - Pick a research paper you are interested in and explain it to your mentor
+  - Pick a research paper you are interested in and explain it to your mentor!
+  - Find three research papers from different fields using any resource you want (e.g., UTRGV digital library, Google Scholar), and read their abstract, method, and conclusions to get a sense of how research in those specific fields is conducted and what it entails.
 	
 ## Week Four: Approaching Faculty for open research positions
 - How to write an interest email to a professor
@@ -85,7 +87,7 @@
 
 - Assignment (optional)
   - Send a interest email to a research professor 
-  - Go to a professor’s office hours or schedule an appointment, and ask questions about their research!
+  - Go to a professor’s office hours or schedule an appointment, and ask questions about their research! For instance, ask about the topics they research, or about the research format used in their field.
 
 ## Week Five: CS Research Opportunities outside of campus
 - CS Research Internships 
