@@ -1,13 +1,13 @@
 # Product Management Guide 🧠
 
-## Week One: Introductions and Goals
+## Introductions and Goals
 - Introductions
 - Exploring PM as a career, the relationship between PMs and SWEs, and different types of PM
 - Alternate careers- software engineering, data science, research, etc.
-- Understanding and defining short and long-term goals
+- Understanding and defining short and long-term goal
 
 
-## Week Two: Expanding the Ps of PM and Networking
+## Expanding the Ps of PM and Networking
 - Expanding on the P’s of PM
   - Product
   - Program
@@ -30,7 +30,7 @@
     - Stay connected 
 
 
-## Week Three: The Job Hunt: Establishing Your Own FAANG, Maximizing Your Resume, and Hiring Season Secrets
+## The Job Hunt: Establishing Your Own FAANG, Maximizing Your Resume, and Hiring Season Secrets
 - Resume review
 - Resume templates
   - [Overleaf LaTeX Templates](https://www.overleaf.com/latex/templates/tagged/cv)
@@ -74,7 +74,7 @@
     - Gauging a sense of what questions will be asked in a PM interview and how you should prepare
 
 
-## Week Four: Product, Design, and Mock Interviews
+## Product, Design, and Mock Interviews
 - Finalizing your resume 
 - Review draft interview responses 
 - Mock interview based on where mentee would like to build more strength (e.g. technical, behavioral, etc.)
@@ -82,7 +82,7 @@
   - Review design thinking principles
   - Review product design principles
 
-## Week 5: Case Study
+## Case Study
 - Work on a project together- woohoo!
   - Defining a problem to solve
   - Researching and identifying users
@@ -93,7 +93,7 @@
     - Create a low-fidelity mockup for product
     - Draft a pitch to highlight how product _solves_ the problem for users
 
-## Week Six: Final Case Presentation and Wrapping Up
+## Final Case Presentation and Wrapping Up
 - Present final project (to mentor or to M&M group!) 
 - What’s next?
 
