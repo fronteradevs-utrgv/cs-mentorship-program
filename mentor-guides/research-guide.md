@@ -1,6 +1,6 @@
 # Research Guide | M&M 🖥🧪
 
-## Week One: Introductions and Goals
+## Introductions and Goals
 - Introductions
 - Define two short-term goals to accomplish by the end of academic year
 - Define long-term career goals
@@ -26,7 +26,7 @@
        - Industry Research
        - SWE/Data Science opportunities for students with research background 
 
-## Week Two: Navigating academic CS research 
+## Navigating academic CS research 
 - UTRGV CS Research Faculty and their projects
   - [Algorithmic Self-Assembly Research Group](https://asarg.hackresearch.com/main/) - Dr. Wylie, Dr. Schweller
   - [Machine Intelligence](http://donkim22.dreamhosters.com/) - Dr. Kim
@@ -48,7 +48,7 @@
   - Connections and mentors  for life!
 - What research interests you?  Discuss with your mentor
 
-## Week Three: Research Journals and manuscripts
+## Research Journals and manuscripts
 - Gain access to resources as a UTRGV student
   - [OpenAthens](https://www.openathens.net)
   - [UTRGV digital library](https://www.utrgv.edu/library/)
@@ -74,7 +74,7 @@
   - Pick a research paper you are interested in and explain it to your mentor!
   - Find three research papers from different fields using any resource you want (e.g., UTRGV digital library, Google Scholar), and read their abstract, method, and conclusions to get a sense of how research in those specific fields is conducted and what it entails.
 	
-## Week Four: Approaching Faculty for open research positions
+## Approaching Faculty for open research positions
 - How to write an interest email to a professor
 - CS research needed in every department!
   - College of Engineering and Computer Science
@@ -89,14 +89,14 @@
   - Send a interest email to a research professor 
   - Go to a professor’s office hours or schedule an appointment, and ask questions about their research! For instance, ask about the topics they research, or about the research format used in their field.
 
-## Week Five: CS Research Opportunities outside of campus
+## CS Research Opportunities outside of campus
 - CS Research Internships 
   - [Summer CS Research](https://www.mtholyoke.edu/~blerner/summer.html)
 - Assignment (optional)
   - Apply to at least two CS research internship positions
 
 
-## Week Six: Professional development: Resume and networking tips!
+## Professional development: Resume and networking tips!
 - Research on a resume
 - LinkedIn
 - What’s next?

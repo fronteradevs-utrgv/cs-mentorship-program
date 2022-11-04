@@ -1,13 +1,13 @@
 # Software Engineering Guide 🖥
 
-## Week One: Introductions and goals
+## Introductions and goals
 - Introductions 
 - Define two short-term goals to accomplish by the end of the academic year
 - Define long-term career goals
 - Alternate careers- product management, data science, research, etc.
 - Ask if they are  interested in doing a project!
 
-## Week Two: Navigating your career path
+## Navigating your career path
 - What is SWE and what are the different paths [(Career Tracks)](https://books.codepath.org/student-handbook/software-engineering/software-career-tracks)
   - Front-end 
   - Back-end 
@@ -51,7 +51,7 @@
     - Stay connected 
 
 
-## Week Three: Getting started in your career
+## Getting started in your career
 - Resume review
   - [Overleaf LaTeX Templates](https://www.overleaf.com/latex/templates/tagged/cv)
   - [Canva Resumes](https://www.canva.com/resumes/templates/)
@@ -92,7 +92,7 @@
     - Gauging a sense of what questions will be asked in a SWE interview and how you should prepare
 
 
-## Week Four: Storytelling
+## Storytelling
 - Finalizing your resume 
 - Behavioral questions
 - Crafting your personal story and mastering the "tell me about yourself" question
@@ -102,7 +102,7 @@
     - Answer 1 OOP design question from leetcode
 
 
-## Week Five: Searching and securing your first opportunity
+## Searching and securing your first opportunity
 - Applying to internships, at least three internships
 - Leetcode prep
   - Answer 1 easy question (together or independently)
@@ -113,7 +113,7 @@
     - Answer 1 OOP design question from leetcode
 
 
-## Week Six: Project wrapup and or Leetcode prep
+## Project wrapup and or Leetcode prep
 - Start wrapping up the project (Optional)
   - Create a presentation slide
   - What did they learn
@@ -124,7 +124,7 @@
 - Assignments!
   - Finish up the presentation slide (if working on a project)
 
-## Week Seven: Final project presentation and program wrap up
+## Final project presentation and program wrap up
 - Final 1:1
 - Present project to mentee or to group (optional)
 - What’s next?
